@@ -1,4 +1,5 @@
 # Competitive programming
+
 My solution to different competitive programming problems from the spanish web [Acepta el Reto](http://www.aceptaelreto.com/).
 
 ## Types of problems
@@ -7,7 +8,7 @@ Some of the most relevant problem cathegories are:
 * Construction and search in graphs.
 * Dynamic programming.
 * Greedy algorithms.
-* Sorting and search in different data structures.
+* Sort and search in different data structures.
 * Math and geometry.
 
 ## Sources
