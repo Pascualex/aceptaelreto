@@ -2,6 +2,8 @@
 
 My solution to different competitive programming problems from the spanish web [Acepta el Reto](http://www.aceptaelreto.com/).
 
+You can also check [my LeetCode profile](https://leetcode.com/pascualex/).
+
 ## Types of problems
 
 Some of the most relevant problem categories are:
